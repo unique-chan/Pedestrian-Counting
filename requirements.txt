@@ -1,0 +1,10 @@
+numpy==1.17.3
+opencv-contrib-python
+pillow==7.2.0
+pyYAML==5.3.1
+scipy==1.4.1
+Cython==0.29.21
+torch==1.5.1
+torchvision==0.6.1
+tqdm==4.50.2
+easydict==1.9
